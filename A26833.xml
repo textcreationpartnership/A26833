@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the Queen in Christ-Church, Canterbury, May iv. 1694 by John Battely ...</title>
+            <author>Battely, John, 1647-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26833</idno>
+            <idno type="STC">Wing B1151</idno>
+            <idno type="STC">ESTC R11113</idno>
+            <idno type="EEBO-CITATION">11994889</idno>
+            <idno type="OCLC">ocm 11994889</idno>
+            <idno type="VID">52078</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26833)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52078)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 856:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the Queen in Christ-Church, Canterbury, May iv. 1694 by John Battely ...</title>
+                  <author>Battely, John, 1647-1708.</author>
+               </titleStmt>
+               <extent>[2], 5-27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Warren, for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>On t.p.: Published by Her Majesty's command.</note>
+                  <note>Preceeds t.p.: Dr. Battely's sermon before the Queen in Christ's-Church, Canterbury, May vi. 1694.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons --  Early works to 1800.</term>
+               <term>Bible. --  N.T. --  Epistles of John, 1st, V, 4 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:52078:1"/>
+            <p>D<hi rend="sup">r</hi> 
+               <hi>BATTELY</hi>'s SERMON Before the QUEEN IN Chriſt's-Church, Canterbury, MAY vi. 1694</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:52078:2"/>
+            <pb facs="tcp:52078:2"/>
+            <p>A SERMON Preach'd before the QUEEN, IN <hi>Chriſt's-Church, Canterbury; MAY</hi> vi. 1694.</p>
+            <p>BY <hi>JOHN BATTELY,</hi> D. D. Archdeacon of <hi>Canterbury,</hi> and one of the Canons of the ſame Church.</p>
+            <p>
+               <hi>Publiſh'd by Her Majeſty's Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Warren,</hi> for <hi>Walter Kettilby,</hi> at the Biſhop's Head in St. <hi>Paul</hi>'s Church-Yard, MDCXCIV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:52078:3"/>
+            <pb n="5" facs="tcp:52078:3"/>
+            <head>A SERMON Preach'd before the QUEEN.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1.</hi> John. <hi>v. latter part of</hi> v. <hi>4.</hi>
+                  </bibl>
+                  <p>— And this is the Victory that over<g ref="char:EOLhyphen"/>cometh the World, even our Faith.</p>
+               </q>
+            </epigraph>
+            <p>VIctory is the happy Succeſs of War, a thing worthy the beſt and moſt ſerious Thoughts of a Chriſtian, whoſe Life is a continual Warfare, and whoſe chief ſtudy therefore ſhould be, how he may conquer: and that the rather, be<g ref="char:EOLhyphen"/>cauſe it is not here as in other Wars, where a Man may hope to eſcape Miſery, if not by proſperous Succeſs, yet by a ſpeedy and honourable Death. No, nothing here but
+<pb n="6" facs="tcp:52078:4"/>plain overcoming will ſerve the turn: for if once he be vanquiſh'd in the main Iſſue of this War, there is no kind Sword to put an end to his Sufferings, nor will the Grave it ſelf ſhelter him from thoſe Eternal Miſe<g ref="char:EOLhyphen"/>ries that are coming upon him. Well there<g ref="char:EOLhyphen"/>fore, I ſay, do all the probable and poſſible ways, that lead to this Victory, deſerve our Conſideration: but this of <hi>Faith</hi> ſhould more eſpecially be regarded by us, becauſe Di<g ref="char:EOLhyphen"/>vine Wiſdom and Truth it ſelf have mark<g ref="char:EOLhyphen"/>ed it out as a certain and infallible one.</p>
+            <p>But alas! theſe are things that Men gene<g ref="char:EOLhyphen"/>rally little dream of, being ſo far from thinking and contriving how they may con<g ref="char:EOLhyphen"/>quer, that they have, in a manner, forgotten that they are in a State of War; the Con<g ref="char:EOLhyphen"/>ſcience of their <hi>Baptiſmal Vow,</hi> which en<g ref="char:EOLhyphen"/>gag'd them in it, ſeeming as little to affect them now they are Men, as the Ceremo<g ref="char:EOLhyphen"/>nies, which it was accompanied with, did when they were Infants: and if you look into their Lives and Actions, you will find as little of its Power and Efficacy there, as you do of the Sign of the Croſs upon their Foreheads, both ſeem to be worn out and vaniſh'd away: and what if their Godfa<g ref="char:EOLhyphen"/>thers
+<pb n="7" facs="tcp:52078:4"/>and Godmothers did, by making a raſh or formal Promiſe in their Names, entail this uneaſie War upon them? They ſee no reaſon why they ſhould be bound to the trouble of proſecuting it. The World and they are Friends, and content ſo to conti<g ref="char:EOLhyphen"/>nue; however, if for decency ſake there muſt be at leaſt ſome ſhew of fighting, be<g ref="char:EOLhyphen"/>tween them as Chriſtians, and the World, againſt whom, by profeſſing Chriſtianity, they have denounced War; yet they cannot but ſecretly think it a thing ſweeter than Victory it ſelf would be, to be overcome by ſo charming an Enemy as they have to deal with. There are too many, who though they will not openly talk thus, yet all the World may ſee that they live like Men who think thus; and ſuch will little care to hear a Warfare in which they are unwillingly engag'd, and a Victory which they had rather loſe than win, diſcourſed of. I can therefore, with any hopes of being favourably heard, ſpeak only to ſuch as deſire to be what their Baptiſm made them, and to do what that Vow obliges them; who, ſince they do profeſs a Faith that requires it of them, are reſolv'd, in order
+<pb n="8" facs="tcp:52078:5"/>to the gaining of this Victory, to fight man<g ref="char:EOLhyphen"/>fully under their Lord's Banner againſt Sin, the World, and the Devil, and to continue Chriſt's faithful Soldiers and Servants unto their Lives end.</p>
+            <p>What I have to ſay upon this Subject ſhall be confined to anſwering <hi>Three Queſtions,</hi> which any one, who has a mind to under<g ref="char:EOLhyphen"/>ſtand the Importance of theſe Words, will naturally ask.</p>
+            <list>
+               <item>I. What this <hi>Victorious Faith</hi> is?</item>
+               <item>II. What is meant by the <hi>World,</hi> which is to be <hi>overcome?</hi>
+               </item>
+               <item>III. How that <hi>Faith</hi> overcomes, and what kind of Victory it obtains for us.</item>
+            </list>
+            <p n="1">I. What this <hi>Faith</hi> is the Apoſtle tells us in the Verſe following the Text, name<g ref="char:EOLhyphen"/>ly, the believing that <hi>Jeſus is the Son of God.</hi> A cheap Victory, will ſome ſay, if the gi<g ref="char:EOLhyphen"/>ving our Aſſent to ſo reaſonable a propoſi<g ref="char:EOLhyphen"/>tion will purchaſe it for us. If that will do, we are all of us already <hi>Conquerours.</hi> It was our Fate to be born ſuch, by being
+<pb n="9" facs="tcp:52078:5"/>born of Chriſtian Parents, whoſe careful inſtitution of us in this Faith in our tender years, gave us then ſo deep a tincture of it, that if we would, we cannot quite waſh it out. The mighty Works which <hi>Jeſus</hi> did, the Teſtimony of his Miracles (as they tell us who have been at the pains ſeriouſly to conſider them) are ſo convincing and de<g ref="char:EOLhyphen"/>monſtrative, that they who read them can<g ref="char:EOLhyphen"/>not but believe them, and therefore every Body amongſt whom we live, profeſs accord<g ref="char:EOLhyphen"/>ingly, and what ſhould we get by being ſin<g ref="char:EOLhyphen"/>gular and pretending to disbelieve that, of the truth of which all the civiliz'd World ſeems fully ſatisfyed? no body that we know of denying it but a Company of <hi>Jews, Turks,</hi> and <hi>Heathens,</hi> People whoſe very Character is Ignorance and Obſtinacy, and therefore their Infidelity is not much to be wondred at. So that, ſay they, if the giving our aſſent to ſo eaſie and plain a truth as this is, be this Conquering Faith, the day is Ours. Victory no longer hovers over our heads, but is lighted upon our Enſigns. This is the groſs Notion of Faith which I fear too many have: namely, that it is only the giving our Aſſent to a Propoſition or two,
+<pb n="10" facs="tcp:52078:6"/>which we have all the Reaſon and Authority imaginable to think true, and ſhould but be laught at and deſpiſed by wiſer Men than our ſelves for denying them.</p>
+            <p>But ſuppoſe we go further, that we ſearch and read the Scriptures, and by their help unravel this cloſe comprehenſive Article, and believe explicitly all the glorious truths, concerning <hi>Jeſus,</hi> the Author of our Faith and Religion, which are involv'd in it: Such as are, That his Generation is Eternal, his Subſtance the ſame with that of the <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> that he came into the World the true <hi>Meſſiah,</hi> the very <hi>Chriſt,</hi> our Anointed <hi>King, Prophet,</hi> and <hi>Prieſt,</hi> to rule us, to teach us, and to offer himſelf a Sacrifice for us. Sup<g ref="char:EOLhyphen"/>poſe we be full and orthodox in our Creeds and Confeſſions of Faith, able to confute all ſorts of Hereticks out of Scripture and Tra<g ref="char:EOLhyphen"/>dition, Fathers and Councels, and to talk learnedly of all the Errors and Controver<g ref="char:EOLhyphen"/>ſies, which from Age to Age have ſprung up in the Church of God: This ſurely muſt do much; and he that is thus qualifyed may well paſs for a true Believer: but even this Faith wants ſomewhat: it may denominate a Man ſound and orthodox, it may help him
+<pb n="11" facs="tcp:52078:6"/>to run down a Gainſayer, or baffle a Diſpu<g ref="char:EOLhyphen"/>ter of this World, but it cannot overcome the World it ſelf, and is not therefore that which my Text means.</p>
+            <p>But what if beſides all this with a lively apprehenſion I can lay hold on Chriſt, or make him mine? What if with an undaun<g ref="char:EOLhyphen"/>ted Confidence, without any care or conſi<g ref="char:EOLhyphen"/>deration of my own Obedience, I can rely wholly upon his for my Juſtification? What if without any regard to my actions, let me live how I pleaſe, I can apply all thoſe gra<g ref="char:EOLhyphen"/>cious and glorious Promiſes to my ſelf which are made only to the good and holy? in a word, what if I can account my ſelf juſtify<g ref="char:EOLhyphen"/>ed, and in favour with God, only becauſe I ſtrongly imagine that I am ſo? Somewhat indeed very like this hath been taught for juſtifying Faith. But can a Man's believing that he is juſtified, be the cauſe of his juſti<g ref="char:EOLhyphen"/>fication? A Propoſition is believed, becauſe it is, we think, true; but does not there<g ref="char:EOLhyphen"/>fore preſently become true, becauſe we be<g ref="char:EOLhyphen"/>lieve it. In a word, let us not flatter our ſelves, that God ever made natural aſſu<g ref="char:EOLhyphen"/>rance, confidence, or preſumption, the Con<g ref="char:EOLhyphen"/>ditions of our Salvation. No, if ever ſuch a
+<pb n="12" facs="tcp:52078:7"/>Faith as this renders us Conquerors, 'tis but juſt as a pleaſing Dream makes us happy, or as a ſtrong but wild fancy may make Mad<g ref="char:EOLhyphen"/>men think themſelves Princes.</p>
+            <p>That therefore by which we muſt conquer the World is none of theſe ſpeculative, aiery, fanciful things, but ſomewhat more real and ſubſtantial, more ſtrong and active. Not a barren Aſſent, like that which we give to Ma<g ref="char:EOLhyphen"/>thematical Demonſtration, whoſe influence reaches no further than the Judgment, and renders not our Life more fruitful at all in good actions; nor like the Hiſtorical Faith which the Devils have and yet continue De<g ref="char:EOLhyphen"/>vils ſtill. No, 'tis the belief of an the whol<g ref="char:EOLhyphen"/>ſome Doctrines of our Chriſtian Religion, not lightly ſwimming and floating about in our heads, but by the Grace of God, and the Aſſiſtance of his Spirit, ſo inwardly graf<g ref="char:EOLhyphen"/>ted in our hearts, that it becomes a ſtrong Principle of Action in us, powerfully ſway<g ref="char:EOLhyphen"/>ing us againſt the inclinations of our corrupt Nature, and making us live at a quite diffe<g ref="char:EOLhyphen"/>rent rate, as if we were not the ſame Men that we were before we believed. When we believe that <hi>Jeſus</hi> is the Son of God, that is, when we ſo believe it that all the World
+<pb n="13" facs="tcp:52078:7"/>may ſee a difference between us and thoſe who do not: When we walk faſter and with more concern towards Heaven in the ways of God's Commandments, than a little faint decay'd Morality would carry us; and by that ſhew that a good Chriſtian has ſome<g ref="char:EOLhyphen"/>what more in him than an honeſt Heathen: When we live in humble Obedience, like Men who believe their Lawgiver to be the Son of God; whoſe main buſineſs is Holineſs and Devotion, who adore his Divine Perſon, reverence his high Authority, obey his juſt and wiſe Commands, and imitate his good and great Example: When we heartily e<g ref="char:EOLhyphen"/>ſpouſe his Intereſt, and fight againſt the Luſts of the Fleſh, his declar'd Enemies; reſiſt the Devil, whoſe works he came to deſtroy; and trample upon the World, which he in our nature, and to encourage us by his Example, overcame before us.</p>
+            <p>This is the Faith that muſt overcome the World, even an active one; for Heaven, the reward of this Victory, was never promis'd to them that did nothing. What a vain thing therefore were it, to think that bare believing will put us in poſſeſſion of it? that the Crown of Glory is expos'd as the prize,
+<pb n="14" facs="tcp:52078:8"/>not of thoſe who run and fight, but of ſuch as idlely ſit ſtill, and expect confidently, that without any more ado it ſhould at laſt drop upon their heads, and that only becauſe they fanſie it will?</p>
+            <p>St. <hi>James</hi> tells us,<note place="margin">II. 26.</note> 
+               <hi>That Faith without Works is dead.</hi> How then ſhall its feeble, lifeleſs hands weild all the mighty Weapons of our ſpiritual Warfare? How ſhall it demoliſh the ſtrong Holds of Satan, diſarm and bind that powerful one, bring away the Spoils, and ſet up the Trophies of its Conqueſts? If in ſuch a Faith only as this is we have hope, we are of all Men moſt deceiv'd, of all Men moſt miſerable: For this Victory will coſt us labour and toyl and ſweat, nay and perhaps blood too, as well as Worldly Conqueſts do, none of which can be expected from a mere dead Belief.</p>
+            <p>Some are ſo ſpiritual and refin'd in their Religion, that they are afraid that Works, let them be never ſo good, ſhould marr their Faith, and hinder its Efficacy: And ſo in<g ref="char:EOLhyphen"/>deed they may, if we abuſe them: if we truſt in them for Salvation, and think to merit Heaven by them, and juſtify our ſelves by their Righteouſneſs. The abuſing them
+<pb n="15" facs="tcp:52078:8"/>thus may, but the doing them can never harm us. No, they give us good hopes and aſſurance, that our Faith is alive and vigo<g ref="char:EOLhyphen"/>rous in us, that it has or will at length, if we thus perſiſt, conquer for us. And this you may gather from the xi. Chapter. of the Epiſtle to the <hi>Hebrews,</hi> which is nothing elſe but a lofty rehearſal of theſe Triumphs of Faith: where the Apoſtle, when he hath told you of <hi>Enoch</hi>'s Faith, which tranſlated him an extraordinary way into the Regions of Life, without ſo much as ever touching upon the Confines of Death, ſubjoins, as the cauſe of it, his walking with God, and plea<g ref="char:EOLhyphen"/>ſing hun with his good Converſation: When he has told you of <hi>Noah</hi>'s Faith, he ſhews you immediately that it was ſuch a Faith, as ſet his hands on work about the Ark, and making proviſion for the ſaving himſelf and his Family in the Deluge: when he has men<g ref="char:EOLhyphen"/>tioned <hi>Abraham</hi>'s Faith, the next things you hear of, are its noble and wonderful Effects, his leaving his native Country at God's Com<g ref="char:EOLhyphen"/>mand, going he knew not whither, and making a foreign and ſtrange Land his home; how it enabled him, in Obedience to God's Command, to conquer the ſtrong affection
+<pb n="16" facs="tcp:52078:9"/>of a Father to an only Son, and to lift up the Sacrificing Knife againſt the Fruit of his own Body, the Object of his moſt paſſionate love. Such a Faith therefore as will ſtrength<g ref="char:EOLhyphen"/>en Men in doing what God would have them, even when he commands the hardeſt things, is the Faith here meant.</p>
+            <p n="2">II. I proceed now in the ſecond place to ſpeak of the World, which 'tis here ſaid to conquer: And this, like the viſible World, is of ſo large an extent, that we cannot poſ<g ref="char:EOLhyphen"/>ſibly view it all at one proſpect: it hath ſuch a variety of dark and horrid Regions, full of Labyrinths and Monſters, that it is ſcarce poſſible to deſcribe them, and therefore it muſt be very hard to overcome them: It hath its Depths and Abyſſes not to be fathom'd, Rocks and Sands hardly to be avoided, Storms and Tempeſts every where threat<g ref="char:EOLhyphen"/>ning us. There is nothing in the Elementary World ſo full of difficulty, danger, and ter<g ref="char:EOLhyphen"/>rour, but that this World of iniquity can ſhew ſomewhat far more dangerous and ter<g ref="char:EOLhyphen"/>rible.</p>
+            <p>If we will deſcribe it plainly in its proper Colours, which are black enough, it in<g ref="char:EOLhyphen"/>cludes
+<pb n="17" facs="tcp:52078:9"/>all the evils and miſchiefs that a Man who hath a mind to be good, can reaſonably be afraid of; all allurements to what is bad, and all diſcouragements from what is good; all thoſe innumerable temptations to Sin and Folly, which on every ſide encompaſs us, which meet us wherever we go, like the air we breath in, and as if they would ſeem like the Providence and Majeſty of God, to be every where, are about our Beds, and about our Paths, and beſet us in all our ways.</p>
+            <p>For inſtance, on our right hands we have Pleaſures bewitching us into their impure Embraces, Profit caſting out its golden Baits to entice us, Applauſe and Honour diſplay<g ref="char:EOLhyphen"/>ing their Pomps and Vanities to draw us af<g ref="char:EOLhyphen"/>ter them, through all the unlawful ways they would lead us. We have Sloth, and Eaſe, and Security, like heavy dead weights hanging upon and hindring us from running the Race that is ſet before us; Plenty and Proſperity tempting us to forget God who gave us them, or to miſemploy them to his diſſervice.</p>
+            <p>On the left hand the World preſents us with a quite different unpleaſant proſpect of
+<pb n="18" facs="tcp:52078:10"/>Oppoſitions and Hardſhips, of Scorn and Shame, of Poverty and Want, nay ſome<g ref="char:EOLhyphen"/>times (and may that Scene never open in our days, as it once threatned to do) with Bonds and Impriſonments, with Torments and Death to be undergone by thoſe who would live godly in the true profeſſion of the Faith of Jeſus Chriſt.</p>
+            <p>It has indeed pleas'd God in mercy to re<g ref="char:EOLhyphen"/>move theſe extraordinary diſcouragements in our duty; but ſtill we have ordinary and common ones enough to encounter with, ſuch as are the general neglect of real true Religion, which makes it diſregarded as a thing out of faſhion: The diſputes about it among the ſeemingly Learned and Wiſe, but really contentious, which ſhake and un<g ref="char:EOLhyphen"/>ſettle it: It's being derided by the preten<g ref="char:EOLhyphen"/>ded Wits, and conſequently decried by their Admirers the Atheiſtical Fools of this Age, which makes it every where a ſport and a by-word, and a ſubject for thoſe ill-furniſht heads and ill-diſpoſed minds, who cannot be witty without being prophane, to trifle with: all which determents from the paths of true Wiſdom, our Faith alone, and that a lively active one, muſt and can overcome for us.</p>
+            <pb n="19" facs="tcp:52078:10"/>
+            <p>But this is not all, The World (I mean, what is bad in it) ſtops not here, but mali<g ref="char:EOLhyphen"/>tiouſly purſues us in all the circumſtances of our lives; ſo that nothing either good or bad can happen to us, but that the World mixes ſome of its Poyſon with it, and turns it to a Temptation: Thus how apt are Strength and Power to tempt us to Violence and Oppreſſion; Beauty to Pride and Un<g ref="char:EOLhyphen"/>chaſtity, Sickneſs to Impatience, Health to Security and not conſidering our latter end? Our Table frequently becomes a Snare to us, and thoſe things which ſhould have been for our health, prove the occaſion of our fal<g ref="char:EOLhyphen"/>ling: The Pleaſure and Refreſhment we find in our lawful Recreations, tempt us to a more large and greedy enjoyment of them than is fit: Our Civility and good Manners put us upon compliances in Exceſs; and the torrent of Mirth and Company too often carries us beyond our due bounds.</p>
+            <p>But beſides this World without us, we have one within us. That without this would do us little harm. Thoſe Enemies abroad hold a treacherous Correſpondence with falſe Friends at home: The Fleſh is willing to comply with all that the World ſhall pro<g ref="char:EOLhyphen"/>poſe,
+<pb n="20" facs="tcp:52078:11"/>and is as induſtrious to betray, as that is to deſtroy us. That under this expreſſion <hi>The World</hi> our carnal Luſts are comprehen<g ref="char:EOLhyphen"/>ded, this ſame Apoſtle tells us: For all that is in the World,<note place="margin">C. 11. v. 16.</note> 
+               <hi>the luſt of the fleſh, the luſt of the Eye, and the pride of life, is not of the Father, but of the World.</hi> This is a World not of God's but of our own Creating. The Foundation of it was laid in the ruins of our Original Righteouſneſs, it began the ſame moment with Sin, and hence are thoſe Tem<g ref="char:EOLhyphen"/>ptations that ſit ſo cloſe to us, or rather live in us, wearying us with their conſtant Solli<g ref="char:EOLhyphen"/>citations, and melting us with their warm Entreaties, warring againſt our Souls with the gentle but dangerous Weapons of pre<g ref="char:EOLhyphen"/>tended Kindneſs. When they diſpute, no Arguments are ſo hardly anſwered as theirs, which carry the convictions of Intereſt, and Pleaſure, and Self-love along with them: When they ſtand up to plead their own Cauſe, they muſt almoſt neceſſarily prevail, their Oratory has Charms, and Violence hard to be reſiſted. They ſeem all the while to talk on our ſide, and therefore to deny them what they would have, is called in Scri<g ref="char:EOLhyphen"/>pture Language, denying our ſelves, which
+<pb n="21" facs="tcp:52078:11"/>few have the heart and reſolution to do.</p>
+            <p>The Devil alſo, the Prince of this World, may here be underſtood, who by inſinuating himſelf into us, by learning and obſerving all our ſecret Inclinations, and then fitting his Temptations to our Luſts, knows how and where to wound us: as long therefore as he remains Unconquer'd, our Victory is imperfect: and from a conſideration of this dangerous Station in which we are ſet, and the many and powerful and ſubtle Enemies we have to deal with, we may conclude, that as by the mere ſtrength of nature we cannot be ſafe; ſo, that nothing leſs than ſo powerful an aſſiſtance as that of Faith can make us Conquerours.</p>
+            <p n="3">III. I come now in the laſt place to ſhew how our Faith overcomes, and what kind of Victory it is, that it obtains for us.</p>
+            <p>And firſt, 'tis not from any ſtrength of ours that our Faith conquers; Had that Weapon no force but what it receiv'd from our weak Arms, it would do little Execu<g ref="char:EOLhyphen"/>tion. No, 'tis the Lord of Hoſts, the Lord mighty in Battle, who even in this Spiritual
+<pb n="22" facs="tcp:52078:12"/>Warfare teaches our hands to War, and our Fingers to fight; to him therefore muſt our Succeſs be aſcribed, in his Temple muſt the ſpoils be hung up. It is he who works in us all the good we do, and if we can do all, nay any thing, 'tis through Chriſt who ſtrengthens us.</p>
+            <p>But ſecondly, though it be through the Grace of God, and by the powerful aſſiſtance of his Holy Spirit, that our Faith becomes Victorious; yet is the concurrence of a wil<g ref="char:EOLhyphen"/>ling mind in us thereto requir'd. For what<g ref="char:EOLhyphen"/>ever God by his Omnipotence may do, yet he does not ordinarily work this Work in us directly againſt our Wills, nor inſpire this Faith into our Hearts as irreſiſtibly as at firſt he did the breath of Life into our Noſtrils, making us as purely paſſive in our Spiritual, as we were in our natural Birth. He has enabled us to do ſomewhat our ſelves, elſe he would never be ſo hard, ſo auſtere a Ma<g ref="char:EOLhyphen"/>ſter, as to require any thing of us.</p>
+            <p>Again our Faith doth not (as ſome vainly expect it ſhould) Conquer this World in a moment, or like a flaſh of Lightning from Heaven conſume all our Sins, and melt our Hearts, and change us into quite other Men
+<pb n="23" facs="tcp:52078:12"/>in an inſtant. No, it carries on its Victori<g ref="char:EOLhyphen"/>ous Arms a ſlow but ſure and ſteady pace; it gains ground Foot by Foot, and is forc'd to diſpute every ſtep that it moves. From ſmall beginnings it proceeds by degrees to greater ſtrength; and is therefore frequently in Scri<g ref="char:EOLhyphen"/>pture compared to ſuch things, whoſe Ori<g ref="char:EOLhyphen"/>ginals are weak and almoſt unperceivable, their increaſe ſlow and in a manner unſenſi<g ref="char:EOLhyphen"/>ble, but their effects certain and powerful.</p>
+            <p>As for the manner of the Combat, a Man's Faith or Religion teaches him to ſet the Bat<g ref="char:EOLhyphen"/>tle regularly in array, confronting every Vice which ſhall aſſault him with the exer<g ref="char:EOLhyphen"/>ciſe of ſome contrary Grace, or Chriſtian Virtue; and then it fares with theſe Com<g ref="char:EOLhyphen"/>batants as it does with the contrary qualities in natural Bodies, as one grows intenſe, the other becomes remiſs, what one loſes, the other gains, and at length one of them will and muſt expel the other. Nor is it want<g ref="char:EOLhyphen"/>ing (if I may without affectation purſue a Metaphor in which St. <hi>Paul</hi> ſeems to delight and uſe upon all occaſions) in all the other arts and advantages of War by which World<g ref="char:EOLhyphen"/>ly Victories are gain'd. For fear of ſurpri<g ref="char:EOLhyphen"/>zes, it ſets a diligent watch upon all the ways
+<pb n="24" facs="tcp:52078:13"/>by which temptations can have acceſs to the Heart; to avoid diſorder, confuſion, mutiny in its own Camp, it wiſely holds the reins of our tumultuous Paſſions, checks the hoſt and violence of their Motions, guides their Strength, and directs their Force, and applies it aright and where it may be moſt effectual. By faſting and mor<g ref="char:EOLhyphen"/>tification it ſtarves our Luſts, and reduces thoſe ſtubborn Enemies by cutting off all Proviſion from them. It encourages us by the noble Example of thoſe that have been Conquerours in this War before us, eſpeci<g ref="char:EOLhyphen"/>ally recounting to us the great Atchieve<g ref="char:EOLhyphen"/>ments of <hi>Christ Jeſus</hi> the Captain of our Sal<g ref="char:EOLhyphen"/>vation, the Author and Finiſher of our Faith. It fixes our Eyes upon the ineſtima<g ref="char:EOLhyphen"/>ble rewards laid up for thoſe, who couragi<g ref="char:EOLhyphen"/>ouſly fight this fight, an Eternal weight of Glory, a thing which in this Life we can apprehend no more, than Infant-Princes can the greatneſs of the Empires they are born to.</p>
+            <p>Thus it is that Faith overcomes, and the Victory, which it obtains, conſiſts in this, that it at laſt ſets us above the World, above fearing its Frowns, or courting its Favours,
+<pb n="25" facs="tcp:52078:13"/>fixing us upon the ſure Foundation of a good Conſcience, and a reſolution to keep it by doing our Duty, ſo that temptations of what ſort ſoever may preſs in upon us, but never move us from our Station. It inſpires us with Heavenly Wiſdom, Gratitude and Courage to anſwer all the ſollicitations to Sin, as once the virtuous <hi>Joſeph</hi> did,<note place="margin">Gen. xxxix.9.</note> 
+               <hi>How can I do this great Wickedneſs, and ſin againſt God?</hi> But by the way we muſt not flatter our ſelves, that our Victory can in this Life be perfect, ſo that no Sin ſhall be left un<g ref="char:EOLhyphen"/>deſtroyed to make head againſt us. No, we muſt go down into our Graves fighting, and conquer dying, and at the Reſurrection our Victory ſhall be compleat, and our Eternal Triumphs begin, when Death, our laſt Ene<g ref="char:EOLhyphen"/>my, ſhall be deſtroyed.</p>
+            <p>Thus have I endeavour'd briefly and plainly to ſhow you the true meaning of the Apoſtle in theſe words, namely, That the main work and buſineſs of Faith is to make us firſt good and holy, and then happy Men; that the only end Religion was in<g ref="char:EOLhyphen"/>tended for, is the ſaving of our Souls by ſub<g ref="char:EOLhyphen"/>duing our Spiritual Enemies. They who contrary to this interpretation of the Text
+<pb n="26" facs="tcp:52078:14"/>make Faith to be nothing elſe but the per<g ref="char:EOLhyphen"/>ſwaſion of their own Party, and its Victory nothing elſe but the prevailing of that per<g ref="char:EOLhyphen"/>ſwaſion over all other Religions in the World, introduce a new Faith quite diffe<g ref="char:EOLhyphen"/>rent from that which is truly Chriſtian; A reſtleſs troubleſome Faith, which will nei<g ref="char:EOLhyphen"/>ther ſuffer the ſubject to live an honeſt and peaceable, nor the Prince, under whom it is profeſt, a quiet and an eaſy Life; A Faith apter to deſtroy Mens lives than to mend them; A Faith debaſed with an unnatural mixture of Paſſion, Prejudice, Intereſt, and I know not what other deſigns and practi<g ref="char:EOLhyphen"/>ces, to which true Religion is utterly a Stranger, and has nothing to do with them.</p>
+            <p>Whereas the Faith in my Text is quite another thing; its Victories are gain'd with<g ref="char:EOLhyphen"/>out Noiſe or Tumult, without giving any the leaſt diſturbance to the State where 'tis profeſt. Its aim is to make men kind and good-natur'd, Juſt and Temperate, Meek and Humble, Religious and Devout, Loyal and Obedient; to ſuch a Faith Princes are beholden for its good Effects, as That is to Them for their kind and gracious Protection.
+<pb n="27" facs="tcp:52078:14"/>And if we practiſe according to this Holy Faith, beſides the ſpiritual advantages we gain by it, we ſhall moſt effectually ſecond the generous deſigns and endeavours of a Prince, who would make us Happy in this World. We ſhall engage God, the Almigh<g ref="char:EOLhyphen"/>ty giver of Succeſs and Victory on his ſide, to preſerve his Perſon, to proſper his Arms, and to bleſs him in all his juſt and wiſe Un<g ref="char:EOLhyphen"/>dertakings. As we thus Profeſs and Believe, God grant we may Do accordingly, that our Church may never want this Faith, nor this Faith ſuch a King and Queen as it now en<g ref="char:EOLhyphen"/>joys, and may it long enjoy them to be the Defenders of it.</p>
+            <p>
+               <hi>Now to the Bleſſed and only Potentate,</hi>
+               <note place="margin">1 Tim. VI.15, 16.</note> 
+               <hi>the King of kings and Lord of lords, who only hath immortality dwelling in the light which no man can approach unto, whom no Man hath ſeen nor can ſee, Be honour and power Everlasting,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
